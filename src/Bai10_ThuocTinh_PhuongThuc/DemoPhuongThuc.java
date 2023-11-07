@@ -66,8 +66,8 @@ public class DemoPhuongThuc {
 
         getName(); //Vì hàm này CÓ từ khoá static
 
-        System.out.println(tinhChuVi());
-        System.out.println(tinhDienTich());
+        System.out.println(demo.tinhChuVi());
+        System.out.println(demo.tinhDienTich());
 
         demo.kiemTraSoChan();
 
