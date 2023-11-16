@@ -11,4 +11,20 @@ public class ConfigData {
     public static void clickElement(){
         System.out.println("Click on element");
     }
+
+    public static void setText(){
+        System.out.println("Click on element");
+    }
+
+    public static void getText(){
+        System.out.println("Click on element");
+    }
+
+    public static void openURL(){
+        System.out.println("Click on element");
+    }
+
+    public static void getTitle(){
+        System.out.println("Click on element");
+    }
 }
