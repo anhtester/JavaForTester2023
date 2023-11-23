@@ -5,7 +5,7 @@ public class TryCatchDemo3 {
         try {
             int data = 5 / 0;
         } finally {
-            System.out.println("Khối lệnh finally luôn được thực thi");
+            System.out.println("Lỗi từ hàm chia cho 0");
         }
         System.out.println("Finished!");
     }

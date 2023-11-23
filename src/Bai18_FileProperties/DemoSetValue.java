@@ -11,5 +11,6 @@ public class DemoSetValue {
 
         //Gọi hàm setValue để gán giá trị theo key
         PropertiesHelper.setValue("author", "Anh Tester");
+        PropertiesHelper.setValue("message", "Add customer successfully");
     }
 }
